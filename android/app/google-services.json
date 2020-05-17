@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53257445890",
+    "firebase_url": "https://restaurantappflutter-8b852.firebaseio.com",
+    "project_id": "restaurantappflutter-8b852",
+    "storage_bucket": "restaurantappflutter-8b852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53257445890:android:37a3f7c5cd3bf6781a3d1b",
+        "android_client_info": {
+          "package_name": "com.pcisrra.apprestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53257445890-9d1vi1a0k5s2r5o41p7mtqgf4dv36129.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBel-y6KOA81qO1EaABpDajRLzOMC-YRt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53257445890-9d1vi1a0k5s2r5o41p7mtqgf4dv36129.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
